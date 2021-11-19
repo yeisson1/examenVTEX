@@ -1,0 +1,10 @@
+{
+  "hello-react": {
+    "component": "HelloWorld"
+  },
+  "store.custom.prueba-final": { 
+  },
+  "celsia-examen": {
+    "component": "Examen"
+  }
+}

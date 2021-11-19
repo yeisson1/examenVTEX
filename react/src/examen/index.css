@@ -1,0 +1,18 @@
+.containerExamen{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    grid-gap: 40px;
+    padding:30px;
+}
+
+.titlePage{
+    color:gray;
+    cursor:pointer;
+    font-size:30px;
+}
+
+.titlePage:hover{
+    color:green;
+    font-size:40px;  
+}
